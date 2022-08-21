@@ -22,6 +22,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
    <img align="center" alt="Wallace-C" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="right" alt="teste" height="150" width="200" 
+src="https://certone.com.br/wp-content/uploads/2020/01/pessoa-apontando-png-5.png" />
 </div>
 
 ##
