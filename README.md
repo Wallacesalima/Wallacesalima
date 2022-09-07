@@ -1,18 +1,12 @@
-  <div align="center">
-  <h1>  Oi, eu sou @Wallacesalima </h1>
-  <p> Estou interessado em desenvolvimento web</p>
-  <p> Atualmente estou estudando javascript e seus frameworks</p>
-  <p>Procuro colaborar com projetos inovadores</p>
-  <br>
-     </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-
-<div align="center">
-  <a href="https://github.com/wallacesalima">
-  <img height="180em"src="https://github-readme-stats.vercel.app/api?username=wallacesalima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallacesalima&layout=compact&langs_count=7&theme=dracula"/>
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Oi,+Meu+Nome+é+Wallace+Sá+Lima;Tenho+22+Anos+;Sou+de+São+Paulo,+SP;Estou+Estudando+Javascript+e+seus+frameworks;+:%29)](https://git.io/typing-svg)
+ 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Wallacesalima&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FF0000&text_color=c9d1d9&bg_color=0d1117" alt="Wallace Sá Lima github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
+
 
 <div style="display: inline_block" align="center" ><br>
   <h2> Tenho conhecimento nas seguintes linguagens: </h2>
@@ -43,3 +37,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
      </div>
      
   ![Snake animation](https://github.com/wallacesalima/wallacesalima/blob/output/github-contribution-grid-snake.svg)
+  
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
