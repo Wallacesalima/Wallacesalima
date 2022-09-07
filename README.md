@@ -25,9 +25,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 <div align="center">
 <br>
-<h2>Contagem de visitantes </h2> 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Wallacesalima}/count.svg" /></p> 
-<br></div>
 
 <div align="center">
   <h2> Contatos </h2>
@@ -42,5 +39,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
      </div>
      
   ![Snake animation](https://github.com/wallacesalima/wallacesalima/blob/output/github-contribution-grid-snake.svg)
+  
+  <h2>Contagem de visitantes </h2> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Wallacesalima}/count.svg" /></p> 
+<br></div>
   
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
