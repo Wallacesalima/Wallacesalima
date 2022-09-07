@@ -4,7 +4,7 @@
  
 <div align="center">  
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wallacesalima&show_icons=true&count_private=true&hide_border=true&title_color=FFFFFF&icon_color=FF0000&text_color=c9d1d9&bg_color=ffffff05" alt="Wallace Sá Lima github stats" /> 
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=ffffff05" />
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallacesalima&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=ffffff05" />
 </div>
 
 
@@ -40,7 +40,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
      
   ![Snake animation](https://github.com/wallacesalima/wallacesalima/blob/output/github-contribution-grid-snake.svg)
   
-  <h2>Contagem de visitantes </h2> 
+  <h2>Contagem de visitantes</h2> 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Wallacesalima}/count.svg" /></p> 
 <br></div>
   
