@@ -24,8 +24,9 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 </div>
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<br>
+<h2>Contagem de visitantes </h2> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Wallacesalima}/count.svg" /></p> 
 <br></div>
 
 <div align="center">
