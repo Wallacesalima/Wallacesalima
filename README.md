@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bbbbbb&size=35em&center=true&vCenter=true&width=1000&lines=Oi,+Meu+Nome+é+Wallace+Sá+Lima;Tenho+22+Anos+;Sou+de+São+Paulo,+SP;Estou+Estudando+Javascript+e+seus+frameworks;+:%29)](https://git.io/typing-svg)
  
 <div align="center">  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wallacesalima&show_icons=true&count_private=true&hide_border=true&title_color=bbbbbb&icon_color=FF0000&text_color=bbbbbb&bg_color=bbbbbb05" alt="Wallace Sá Lima github stats" /> 
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallacesalima&layout=compact&hide_border=true&title_color=bbbbbb&text_color=bbbbbb&bg_color=bbbbbb05" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wallacesalima&show_icons=true&count_private=true&hide_border=true&title_color=bbbbbb&icon_color=FF0000&text_color=bbbbbb&bg_color=80808010" alt="Wallace Sá Lima github stats" /> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallacesalima&layout=compact&hide_border=true&title_color=bbbbbb&text_color=bbbbbb&bg_color=80808010" />
 </div>
 
 
