@@ -17,12 +17,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
  <img align="center" alt="Wallace-nodejs" height="30" width="40" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Wallace-C" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Wallace-flutter" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-   <img align="center" alt="Wallace-C" height="30" width="40" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
 </div>
 <div align="center">
