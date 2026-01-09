@@ -2,12 +2,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bbbbbb&size=35em&center=true&vCenter=true&width=1000&lines=Oi,+Meu+Nome+é+Wallace+Sá+Lima;Tenho+25+Anos+;Sou+de+São+Paulo,+SP;Estou+Estudando+Javascript+e+seus+frameworks;+:%29)](https://git.io/typing-svg)
- 
-<div align="center">  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Wallacesalima&show_icons=true&count_private=true&hide_border=true&title_color=bbbbbb&icon_color=FF0000&text_color=bbbbbb&bg_color=80808010" alt="Wallace Sá Lima github stats" /> 
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wallacesalima&layout=compact&hide_border=true&title_color=bbbbbb&text_color=bbbbbb&bg_color=80808010" />
-</div>
-
 
 <div style="display: inline_block" align="center" ><br>
   <h2> Tenho conhecimento nas seguintes linguagens: </h2>
