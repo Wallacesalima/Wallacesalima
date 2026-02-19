@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bbbbbb&size=35em&center=true&vCenter=true&width=1000&lines=Oi,+Meu+Nome+é+Wallace+Sá+Lima;Tenho+25+Anos+;Sou+de+São+Paulo,+SP;Estou+Estudando+Javascript+e+seus+frameworks;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bbbbbb&size=35em&center=true&vCenter=true&width=1000&lines=Oi,+Meu+Nome+é+Wallace+Sá+Lima;Tenho+26+Anos+;Sou+de+São+Paulo,+SP;Estou+Estudando+Javascript+e+seus+frameworks;+:%29)](https://git.io/typing-svg)
 
 <div style="display: inline_block" align="center" ><br>
   <h2> Tenho conhecimento nas seguintes linguagens: </h2>
